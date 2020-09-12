@@ -1,2 +1,4 @@
-# object-oriented-programming
-CAU object-oriented programming
+## bangtal 라이브러리를 활용한 방탈출 게임
+1. 방탈출 게임 안의 문제와 도구를 이용하여 문을 열고 방을 탈출하세요.
+2. 우측 상단의 가방을 열어 여러 도구를 이용하세요.
+3. 방 안의 물건을 클릭하거나 드래그하여 필요에 따라 물건을 움직이세요.
